@@ -4,7 +4,7 @@
 
 **心理計量 · 統計建模 · 量化研究 · 專書寫作**
 
-國立臺灣師範大學企業管理學系特聘教授、教育心理與輔導學系合聘教授。
+**[國立臺灣師範大學企業管理學系特聘教授](https://www.ba.ntnu.edu.tw/)**、**[教育心理與輔導學系合聘教授](https://www.epc.ntnu.edu.tw/)**。
 
 Distinguished Professor, Department of Business Administration  
 Joint Appointment Professor, Department of Educational Psychology and Counseling  
