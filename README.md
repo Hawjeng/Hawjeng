@@ -14,7 +14,8 @@ National Taiwan Normal University
 
 Joint Research Fellows, Research Center for Humanities and Social Sciences (RCHSS), Academia Sinica
 
-美國南加州大學心理計量學博士。
+[美國南加州大學](https://www.usc.edu/)心理計量學博士。  
+[University of Southern California](https://www.usc.edu/) (Ph.D. in Psychometrics)
 
 研究與教學以心理計量和量化方法為主。透過專書、課程與工作坊，說明統計模型的原理、使用條件與實際分析，讓研究者能把方法用在自己的問題上。
 
