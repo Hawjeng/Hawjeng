@@ -4,11 +4,17 @@
 
 **心理計量 · 統計建模 · 量化研究 · 專書寫作**
 
+國立臺灣師範大學企業管理學系特聘教授、教育心理與輔導學系合聘教授。
+
+Distinguished Professor, Department of Business Administration  
+Joint Appointment Professor, Department of Educational Psychology and Counseling  
+National Taiwan Normal University
+
 **[中央研究院人文社會科學研究中心合聘研究員](https://www.rchss.sinica.edu.tw/)**
 
 Joint Research Fellows, Research Center for Humanities and Social Sciences (RCHSS), Academia Sinica
 
-國立臺灣師範大學企業管理學系特聘教授、教育心理與輔導學系合聘教授。美國南加州大學心理計量學博士。
+美國南加州大學心理計量學博士。
 
 研究與教學以心理計量和量化方法為主。透過專書、課程與工作坊，說明統計模型的原理、使用條件與實際分析，讓研究者能把方法用在自己的問題上。
 
